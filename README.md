@@ -14,7 +14,7 @@
 
      [![Linkedin Badge](https://img.shields.io/badge/-Hasan%20Omar-blue?style=flat-square&logo=Linkedin&logoColor=white&link&=https://www.linkedin.com/in/hasan-omar-123h/)](https://www.linkedin.com/in/hasan-omar-123h/) 
 [![Gmail Badge](https://img.shields.io/badge/-hasanromar2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanromar2002@gmail.com)](mailto:hasanromar2002@gmail.com)
-    ![](https://komarev.com/ghpvc/?username=eladjmc&style=flat-square)
+    ![](https://komarev.com/ghpvc/?username=HasanOmar1&style=flat-square)
 <hr>
 
 
