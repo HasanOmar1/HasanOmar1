@@ -9,6 +9,9 @@
 
   About me
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=40&width=1000&height=90&lines=About+Me+😄)](https://git.io/typing-svg)
+
+
 👋 Hi, My name is `Hasan`
 
 
