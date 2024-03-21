@@ -10,12 +10,9 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=40&width=1000&height=90&lines=About+Me)](https://git.io/typing-svg)
 
 
-👋 Hi, My name is `Hasan`
-
-
 🎮 Passionate Gamer & Versatile Fullstack Developer 🚀
 
-Greetings! I'm Hasan, a dedicated gamer with over a decade of experience immersing myself in the dynamic world of gaming. Through my journey, I've cultivated a profound love for gaming that continues to drive my enthusiasm.
+Greetings! I'm `Hasan`, a dedicated gamer with over a decade of experience immersing myself in the dynamic world of gaming. Through my journey, I've cultivated a profound love for gaming that continues to drive my enthusiasm.
 
 🛠️ As a seasoned fullstack developer, I thrive on transforming ideas into reality using an array of technologies. With expertise in React, MongoDB, JavaScript, HTML, CSS, Express, Redux, and Redux Toolkit, I specialize in crafting seamless, interactive experiences.
 
