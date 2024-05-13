@@ -10,17 +10,26 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=40&width=1000&height=90&lines=About+Me)](https://git.io/typing-svg)
 
 
-🎮 Passionate Gamer & Versatile Fullstack Developer 🚀
+👋 Hello, I'm Hasan, a seasoned Fullstack Developer specializing in the MERN stack with a passion for crafting robust and innovative web applications.
 
-Greetings! I'm `Hasan`, a dedicated gamer with over a decade of experience immersing myself in the dynamic world of gaming. Through my journey, I've cultivated a profound love for gaming that continues to drive my enthusiasm.
+With a strong foundation in both frontend and backend technologies, I thrive in architecting solutions that not only meet but exceed client expectations. My skills span across:
 
-🛠️ As a seasoned fullstack developer, I thrive on transforming ideas into reality using an array of technologies. With expertise in React, MongoDB, JavaScript, HTML, CSS, Express, Redux, and Redux Toolkit, I specialize in crafting seamless, interactive experiences.
+Frontend Expertise:
 
-🔍 Additionally, I'm well-versed in tools like Puppeteer, Mocha, and Chai, enabling me to deliver robust solutions with meticulous attention to detail. My familiarity with Material UI and React Bootstrap empowers me to create visually stunning interfaces that captivate users.
+- Proficiency in HTML, CSS, JavaScript, TypeScript, and React allows me to create dynamic and responsive user interfaces that elevate user experiences.
+- Experienced in utilizing UI libraries such as Material UI, React Bootstrap, and Styled Components to create captivating designs that leave a lasting impression.
 
-📚 Each day presents an opportunity for growth, and I embrace it wholeheartedly. Whether it's mastering emerging technologies or refining my skills, I am committed to continuous learning and innovation.
+Backend Mastery:
 
-Let's connect and explore how we can collaborate to create engaging experiences or discuss the latest in gaming and development trends!
+- Skilled in Node.js, Express.js, and MongoDB (with Mongoose), I excel in developing efficient server-side architectures and proficiently managing databases.
+- Well-versed in authentication protocols like JsonWebToken (JWT) and encryption techniques like Bcrypt, ensuring robust security implementations for applications.
+
+Additional Skills:
+
+- Extensive experience with Redux, Redux Toolkit, Axios, and testing frameworks like Mocha, Chai, and SuperTest ensures the delivery of high-quality, seamlessly functional code.
+- Proficient in tools like Postman for API testing, Git for version control, and GitHub for collaborative development, facilitating efficient project management and teamwork.
+
+Let's connect and discuss how we can collaborate to bring your projects to life! 💬
 
 <hr>
 
