@@ -21,7 +21,7 @@ Frontend Expertise:
 
 Backend Mastery:
 
-- Skilled in Node.js, Express.js, and MongoDB (with Mongoose), I excel in developing efficient server-side architectures and proficiently managing databases.
+- Skilled in Node.js, Express.js, , MongoDB (with Mongoose) and MySQL, I excel in developing efficient server-side architectures and proficiently managing databases.
 - Well-versed in authentication protocols like JsonWebToken (JWT) and encryption techniques like Bcrypt, ensuring robust security implementations for applications.
 
 Additional Skills:
