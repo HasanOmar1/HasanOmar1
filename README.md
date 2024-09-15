@@ -34,7 +34,7 @@ Let's connect and discuss how we can collaborate to bring your projects to life!
 <hr>
 
 
-- 👀 Currently Looking for a fullstack / frontend / backend Job.
+- 👀 Currently Looking for a fullstack / frontend / backend / QA job.
 - 📫 How to reach me ==>
 
      [![Linkedin Badge](https://img.shields.io/badge/-Hasan%20Omar-blue?style=flat-square&logo=Linkedin&logoColor=white&link&=https://www.linkedin.com/in/hasan-omar-123h/)](https://www.linkedin.com/in/hasan-omar-123h/) 
