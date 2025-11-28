@@ -59,4 +59,5 @@ With a strong engineering background and hands-on project experience, I enjoy cr
 
 <hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanOmar1&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanOmar1&show_icons=true&theme=radical)
+
