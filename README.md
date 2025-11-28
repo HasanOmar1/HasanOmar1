@@ -1,48 +1,61 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=40&width=1000&height=90&lines=Welcome+to+my+Github+Page!;I'm+Hasan+Omar+😄)](https://git.io/typing-svg)
   
-
 <p align="center">
   <img src="https://hawkticehurst.com/imgs/hero.png" alt="Alt Text" width="650" height="500">
 </p>
-  
-  <hr>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=40&width=1000&height=90&lines=About+Me)](https://git.io/typing-svg)
-
-
-👋 Hello, I'm Hasan, a seasoned Fullstack Developer specializing in the MERN stack with a passion for crafting robust and innovative web applications.
-
-With a strong foundation in both frontend and backend technologies, I thrive in architecting solutions that not only meet but exceed client expectations. My skills span across:
-
-Frontend Expertise:
-
-- Proficiency in HTML, CSS, JavaScript, TypeScript, and React allows me to create dynamic and responsive user interfaces that elevate user experiences.
-- Experienced in utilizing UI libraries such as Material UI, React Bootstrap, and Styled Components to create captivating designs that leave a lasting impression.
-
-Backend Mastery:
-
-- Skilled in Node.js, Express.js, , MongoDB (with Mongoose) and MySQL, I excel in developing efficient server-side architectures and proficiently managing databases.
-- Well-versed in authentication protocols like JsonWebToken (JWT) and encryption techniques like Bcrypt, ensuring robust security implementations for applications.
-
-Additional Skills:
-
-- Extensive experience with Redux, Redux Toolkit, Axios, and testing frameworks like Mocha, Chai, and SuperTest ensures the delivery of high-quality, seamlessly functional code.
-- Proficient in tools like Postman for API testing, Git for version control, and GitHub for collaborative development, facilitating efficient project management and teamwork.
-
-Let's connect and discuss how we can collaborate to bring your projects to life! 💬
 
 <hr>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=40&width=1000&height=90&lines=About+Me)](https://git.io/typing-svg)
 
-- 👀 Currently Looking for a fullstack / frontend / backend .
-- 📫 How to reach me ==>
+👋 Hello, I'm **Hasan**, a **second-year Practical Engineer** student at *The National School for Handassaim* .  
+I specialize in the **MERN stack**, building clean, scalable, and user-focused applications across both frontend and backend.
 
-     [![Linkedin Badge](https://img.shields.io/badge/-Hasan%20Omar-blue?style=flat-square&logo=Linkedin&logoColor=white&link&=https://www.linkedin.com/in/hasan-omar-123h/)](https://www.linkedin.com/in/hasan-omar-123h/) 
+With a strong engineering background and hands-on project experience, I enjoy crafting seamless digital experiences and designing reliable system architectures.
+
+---
+
+### 🚀 **What I Do**
+
+#### **Frontend Expertise**
+- Skilled in **HTML, CSS, JavaScript, TypeScript, React**
+- Building responsive and dynamic UI components
+- Experienced with **Material UI, React Bootstrap, Styled Components**
+- Focused on performance, accessibility, and user experience
+
+#### **Backend Mastery**
+- Proficient with **Node.js, Express.js**
+- Databases: **MongoDB (Mongoose)** and **MySQL**
+- Building secure REST APIs with **JWT authentication** and **Bcrypt encryption**
+- Strong understanding of server architecture and API design
+
+#### **Additional Skills**
+- State Management: **Redux, Redux Toolkit**
+- API handling: **Axios**
+- Testing: **Mocha, Chai, SuperTest**
+- Tools: **Postman, Git, GitHub**
+- Systems & General Knowledge:
+  - **Java**, **Linux**, **Android**, **Python**
+  - **Quality Assurance (QA)** and testing methodology
+  - **CCNA (Networking)**
+  - **Azure Cloud**
+
+---
+
+💬 **Let’s connect and build something great together!**
+
+<hr>
+
+### 📌 **Currently Looking For**
+- Fullstack Developer roles  
+- Frontend Developer roles  
+- Backend Developer roles  
+
+### 📫 **Reach Me**
+[![Linkedin Badge](https://img.shields.io/badge/-Hasan%20Omar-blue?style=flat-square&logo=Linkedin&logoColor=white&link&=https://www.linkedin.com/in/hasan-omar-123h/)](https://www.linkedin.com/in/hasan-omar-123h/) 
 [![Gmail Badge](https://img.shields.io/badge/-hasanromar2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanromar2002@gmail.com)](mailto:hasanromar2002@gmail.com)
-    ![](https://komarev.com/ghpvc/?username=HasanOmar1&style=flat-square)
-<hr>
+![](https://komarev.com/ghpvc/?username=HasanOmar1&style=flat-square)
 
+<hr>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanOmar1&theme=radical)
-
-
