@@ -49,7 +49,8 @@ With a strong engineering background and hands-on project experience, I enjoy cr
 ### 📌 **Currently Looking For**
 - Fullstack Developer roles  
 - Frontend Developer roles  
-- Backend Developer roles  
+- Backend Developer roles
+- Quality Assurance roles
 
 ### 📫 **Reach Me**
 [![Linkedin Badge](https://img.shields.io/badge/-Hasan%20Omar-blue?style=flat-square&logo=Linkedin&logoColor=white&link&=https://www.linkedin.com/in/hasan-omar-123h/)](https://www.linkedin.com/in/hasan-omar-123h/) 
