@@ -18,8 +18,8 @@
 
 ## 💼 Work Experience
 
-### **Full Stack / Frontend Internship** | **Makes** *Feb. 2024 – Apr. 2024* [cite: 27]
-* [cite_start]Built dynamic reusable components and template components using **React** and **Redux Toolkit**[cite: 29].
+### **Full Stack / Frontend Internship** | **Makes** *Feb. 2024 – Apr. 2024*
+* [cite_start]Built dynamic reusable components and template components using **React** and **Redux Toolkit**[cite: 27, 29].
 * [cite_start]Managed state persistence and worked with **Puppeteer** and **MongoDB** services[cite: 29].
 * [cite_start]Developed both backend and frontend functionality for multiple production pages[cite: 30].
 
@@ -29,7 +29,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | [cite_start]HTML, CSS, JavaScript, TypeScript, React, Redux Toolkit, Material UI, Styled Components [cite: 39, 41] |
+| **Frontend** | [cite_start]HTML, CSS, JavaScript, TypeScript, React, Redux Toolkit, Material UI, Styled Components [cite: 37, 39, 41] |
 | **Backend** | [cite_start]Node.js, Express.js, Java, Python [cite: 39] |
 | **Databases** | [cite_start]MongoDB (Mongoose), MySQL [cite: 40] |
 | **Testing & QA** | [cite_start]QA Methodologies, Mocha, Chai, SuperTest, Postman [cite: 39, 41] |
