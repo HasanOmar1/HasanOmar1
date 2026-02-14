@@ -1,62 +1,63 @@
+# 🚀 Hasan Omar | Practical Engineer & Full-Stack Developer
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=40&width=1000&height=90&lines=Welcome+to+my+Github+Page!;I'm+Hasan+Omar+😄)](https://git.io/typing-svg)
-  
+
 <p align="center">
-  <img src="https://hawkticehurst.com/imgs/hero.png" alt="Alt Text" width="650" height="500">
+  <img src="https://hawkticehurst.com/imgs/hero.png" alt="Hero Image" width="650" height="500">
 </p>
 
-<hr>
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=40&width=1000&height=90&lines=About+Me)](https://git.io/typing-svg)
-
-👋 Hello, I'm **Hasan**, a **second-year Practical Engineer** student at *The National School for Handassaim* .  
-I specialize in the **MERN stack**, building clean, scalable, and user-focused applications across both frontend and backend.
-
-With a strong engineering background and hands-on project experience, I enjoy crafting seamless digital experiences and designing reliable system architectures.
+## 👨‍💻 About Me
+* [cite_start]I am a **second-year Practical Engineering student** at **The National School for Handassaim**[cite: 4, 34].
+* [cite_start]I completed a **Full-Stack Development bootcamp** at **Appleseeds**, which involved 720 hours of intensive training[cite: 5, 35, 36].
+* [cite_start]I have professional experience working as a **Full Stack / Frontend Intern**, building "peace-tech" and education-tech products[cite: 27, 28].
+* [cite_start]**Languages:** Arabic (Mother-tongue), English (Fluent), and Hebrew (Good)[cite: 42].
 
 ---
 
-### 🚀 **What I Do**
+## 💼 Work Experience
 
-#### **Frontend Expertise**
-- Skilled in **HTML, CSS, JavaScript, TypeScript, React**
-- Building responsive and dynamic UI components
-- Experienced with **Material UI, React Bootstrap, Styled Components**
-- Focused on performance, accessibility, and user experience
-
-#### **Backend Mastery**
-- Proficient with **Node.js, Express.js**
-- Databases: **MongoDB (Mongoose)** and **MySQL**
-- Building secure REST APIs with **JWT authentication** and **Bcrypt encryption**
-- Strong understanding of server architecture and API design
-
-#### **Additional Skills**
-- State Management: **Redux, Redux Toolkit**
-- API handling: **Axios**
-- Testing: **Mocha, Chai, SuperTest**
-- Tools: **Postman, Git, GitHub**
-- Systems & General Knowledge:
-  - **Java**, **Linux**, **Android**, **Python**
-  - **Quality Assurance (QA)** and testing methodology
-  - **CCNA (Networking)**
-  - **Azure Cloud**
+### **Full Stack / Frontend Internship** | **Makes** *Feb. 2024 – Apr. 2024* [cite: 27]
+* [cite_start]Built dynamic reusable components and template components using **React** and **Redux Toolkit**[cite: 29].
+* [cite_start]Managed state persistence and worked with **Puppeteer** and **MongoDB** services[cite: 29].
+* [cite_start]Developed both backend and frontend functionality for multiple production pages[cite: 30].
 
 ---
 
-💬 **Let’s connect and build something great together!**
+## 🛠️ Technical Skills
 
-<hr>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | [cite_start]HTML, CSS, JavaScript, TypeScript, React, Redux Toolkit, Material UI, Styled Components [cite: 39, 41] |
+| **Backend** | [cite_start]Node.js, Express.js, Java, Python [cite: 39] |
+| **Databases** | [cite_start]MongoDB (Mongoose), MySQL [cite: 40] |
+| **Testing & QA** | [cite_start]QA Methodologies, Mocha, Chai, SuperTest, Postman [cite: 39, 41] |
+| **DevOps & Tools** | [cite_start]Git, GitHub, Linux, CCNA (Networking), Azure Cloud, Puppeteer, JWT, BcryptJs, Axios [cite: 39, 41] |
 
-### 📌 **Currently Looking For**
-- Fullstack Developer roles  
-- Frontend Developer roles  
-- Backend Developer roles
-- Quality Assurance roles
+---
 
-### 📫 **Reach Me**
-[![Linkedin Badge](https://img.shields.io/badge/-Hasan%20Omar-blue?style=flat-square&logo=Linkedin&logoColor=white&link&=https://www.linkedin.com/in/hasan-omar-123h/)](https://www.linkedin.com/in/hasan-omar-123h/) 
-[![Gmail Badge](https://img.shields.io/badge/-hasanromar2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanromar2002@gmail.com)](mailto:hasanromar2002@gmail.com)
-![](https://komarev.com/ghpvc/?username=HasanOmar1&style=flat-square)
+## 📂 Featured Projects
 
-<hr>
+### **E-Commerce for Clothing**
+* [cite_start]Full-stack application built using the **MERN stack** (MongoDB, Express, React, Node)[cite: 7].
+* [cite_start]Utilized **TypeScript** and **Redux** for robust frontend state management[cite: 7].
+* [cite_start]Implemented secure authentication with **JWT** and password hashing with **BCryptJs**[cite: 10, 11].
+* [cite_start]Integrated **Puppeteer** to scrape data for the product database[cite: 13].
 
+### **Book Library**
+* [cite_start]MERN stack project featuring a polished UI with **Material UI** and **React Bootstrap**[cite: 14, 16].
+* [cite_start]Enhanced user experience with the **React Page Flip** package[cite: 18].
+* [cite_start]Designed and tested **RESTful API** endpoints using **Postman**[cite: 21, 23].
+* [cite_start]Secured user data using **BCryptJs** and **JWT** for authorization[cite: 22, 24].
 
+---
+
+## 📫 Let's Connect!
+
+* [cite_start]📧 **Email:** [hasanromar2002@gmail.com](mailto:hasanromar2002@gmail.com) [cite: 2]
+* [cite_start]💼 **LinkedIn:** [Hasan Omar](https://www.linkedin.com/in/hasan-omar-123h/) [cite: 2]
+* [cite_start]🐙 **GitHub:** [HasanOmar1](https://github.com/HasanOmar1) [cite: 2]
+* [cite_start]📞 **Phone:** 054-939-5561 [cite: 2]
+
+---
