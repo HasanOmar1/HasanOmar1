@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HasanOmar1&show_icons=true&theme=radical" alt="Hasan's GitHub stats" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanOmar1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
