@@ -57,7 +57,5 @@
 
 * 📧 **Email:** [hasanromar2002@gmail.com](mailto:hasanromar2002@gmail.com)
 * 💼 **LinkedIn:** [Hasan Omar](https://www.linkedin.com/in/hasan-omar-123h/)
-* 🐙 **GitHub:** [HasanOmar1](https://github.com/HasanOmar1)
-* 📞 **Phone:** 054-939-5561
 
 ---
