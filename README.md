@@ -1,4 +1,4 @@
-# 🚀 Hasan Omar | Practical Engineer & Full-Stack Developer
+# 🚀 Hasan Omar | Practical Software Engineer & Full-Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=40&width=1000&height=90&lines=Welcome+to+my+Github+Page!;I'm+Hasan+Omar+😄)](https://git.io/typing-svg)
 
