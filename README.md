@@ -9,11 +9,16 @@
 ---
 
 ## 👨‍💻 About Me
-* I am a **second-year Practical Engineering student** at **The National School for Handassaim**.
+* I am a **second-year Software Practical Engineering student** at **The National School for Handassaim**.
 * I completed a **Full-Stack Development bootcamp** at **Appleseeds**, which involved 720 hours of intensive training.
 * I have professional experience working as a **Full Stack / Frontend Intern**, building "peace-tech" and education-tech products.
 * **Languages:** Arabic (Mother-tongue), English (Fluent), and Hebrew (Good).
 
+Currently looking to work as
+- Frontend Developer
+- Backend Developer
+- Fullstack Developer
+- Quality Assurance
 ---
 
 ## 💼 Work Experience
@@ -52,7 +57,6 @@
 * Secured user data using **BCryptJs** and **JWT** for authorization.
 
 ---
-
 
 ## 📫 Let's Connect!
 
