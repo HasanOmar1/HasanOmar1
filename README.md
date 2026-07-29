@@ -91,6 +91,19 @@ Currently looking to work as
 * Designed and tested **RESTful API** endpoints using **Postman**.
 * Secured user data using **BCryptJs** and **JWT** for authorization.
 
+###	**Nova Rents** – Full-stack vehicle rental application group project with class mate in Technion.
+*	Worked with React, Node.js, and Express.JS.
+*	Built and managed a MySQL database for storing application data.
+*	Implemented RESTful APIs for communication between frontend and backend.
+* Used Axios for handling API requests from the frontend.
+*	Implemented authentication and authorization using Express Sessions.
+*	Used BCrypt for secure password hashing.
+*	Implemented file uploads using Multer.
+*	Integrated Nodemailer for sending automated emails.
+*	Used Node Cron for scheduled background tasks.
+*	Used Recharts for displaying data visualizations.
+*	Demo | Code
+
 ---
 
 
