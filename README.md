@@ -102,7 +102,6 @@ Currently looking to work as
 *	Integrated Nodemailer for sending automated emails.
 *	Used Node Cron for scheduled background tasks.
 *	Used Recharts for displaying data visualizations.
-*	Demo | Code
 
 ---
 
