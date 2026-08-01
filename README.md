@@ -19,6 +19,7 @@
 * **Languages:** Arabic (Mother-tongue), English (Fluent), and Hebrew (Good).
 
 Currently looking to work as
+- Software Engineer
 - Frontend Developer
 - Backend Developer
 - Fullstack Developer
